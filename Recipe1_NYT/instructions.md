@@ -1,4 +1,4 @@
-# Recipe 1
+# Recipe 1 Instructions
 Sunday, Jan. 24, 2021
 
 On Monday through Sunday
