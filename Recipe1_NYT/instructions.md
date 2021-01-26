@@ -1,5 +1,6 @@
 # Recipe 1 Instructions
 Sunday, Jan. 24, 2021
+by Momo Kobayashi and Peter Rentz
 
 On Monday through Sunday
 1. Count the number of photos on the front page of The New York Times
